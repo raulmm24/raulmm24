@@ -24,21 +24,12 @@
 
 ### 💬 Sobre mí & Objetivos
 
-<table border="0">
-  <tr>
-    <td width="60%" valign="top">
-      <ul>
-        <li>💻 Enfocado en dominar el desarrollo <b>Full Stack</b> combinando arquitectura sólida y diseño impecable.</li>
-        <li>⚡ Aprendiendo activamente <b>PHP, Python, JavaScript, HTML5 y CSS3</b>.</li>
-        <li>🎯 Próxima meta: Dominar frameworks potentes como <b>Laravel</b> y <b>React</b>.</li>
-        <li>💡 Siempre experimentando con nuevos proyectos y buenas prácticas de código.</li>
-      </ul>
-    </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/qgQUGGAC3P4PPmmgcM/giphy.gif" width="180px" alt="Coding GIF" />
-    </td>
-  </tr>
-</table>
+<ul>
+  <li>💻 Enfocado en dominar el desarrollo <b>Full Stack</b> combinando arquitectura sólida y diseño impecable.</li>
+  <li>⚡ Aprendiendo activamente <b>PHP, Python, JavaScript, HTML5 y CSS3</b>.</li>
+  <li>🎯 Próxima meta: Dominar frameworks potentes como <b>Laravel</b> y <b>React</b>.</li>
+  <li>💡 Siempre experimentando con nuevos proyectos y buenas prácticas de código.</li>
+</ul>
 
 <br />
 
