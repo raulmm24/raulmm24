@@ -1,6 +1,6 @@
-<!-- CABECERA CON ANIMACIÓN Y PRESENTACIÓN -->
+<!-- CABECERA DE PRESENTACIÓN -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=%C2%A1Hola!+Soy+Ra%C3%BAl+Mart%C3%ADnez;Estudiante+de+Desarrollo+Web;Construyendo+apps+funcionales+y+modernas;PHP+%7C+JS+%7C+Python+%7C+HTML%2FCSS" alt="Typing SVG" />
+  <h1>¡Hola, soy Raúl Martínez! 👋</h1>
   
   <p align="center">
     🚀 <b>Estudiante de Desarrollo Web</b> apasionado por crear aplicaciones funcionales, bien estructuradas y con un diseño moderno.
@@ -94,16 +94,4 @@
         <code>Java</code> <code>MySQL</code> 
       </p>
       <p align="center">
-        <a href="https://github.com/raulmm24/Practicas"><b>Ver Repositorio ↗</b></a>
-      </p>
-    </td>
-  </tr>
-</table>
-
-<br />
-
----
-
-<div align="center">
-  <i>"El mejor momento para plantar un árbol fue hace 20 años. El segundo mejor momento es ahora."</i> 🌿
-</div>
+        <a href="
