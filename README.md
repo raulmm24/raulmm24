@@ -35,13 +35,32 @@
 
 ---
 
-### 🛠️ Tecnologías que utilizo y aprendo
+### 🛠️ Tecnologías y Stack
 
 <div align="center">
-  <!-- ICONOS DE TECNOLOGÍAS EN MODO OSCURO -->
+
+  <!-- LENGUAJES -->
+  <p><b>💻 Lenguajes</b></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,python,laravel,react,tailwind,mysql,docker,linux,git,github,vscode&theme=dark" alt="Mis Tecnologías" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,python,java&theme=dark" alt="Lenguajes" />
   </a>
+
+  <br /><br />
+
+  <!-- FRAMEWORKS Y LIBRERÍAS -->
+  <p><b>⚡ Frameworks & Librerías (En aprendizaje / Futuro)</b></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=laravel,react,tailwind&theme=dark" alt="Frameworks" />
+  </a>
+
+  <br /><br />
+
+  <!-- BASES DE DATOS Y OTROS -->
+  <p><b>🗄️ Bases de Datos & Contenedores</b></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,docker&theme=dark" alt="Bases de datos y Docker" />
+  </a>
+
 </div>
 
 <br />
