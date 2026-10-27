@@ -1,6 +1,6 @@
 <!-- BANNER Y PRESENTACIÓN -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=%C2%A1Hola!+Soy+Ra%C3%BAl;Desarrollador+Web+%2B+UI%2FUX;PHP+%7C+JS+%7C+Python+%7C+Tailwind" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=%C2%A1Hola!+Soy+Ra%C3%BAl;Desarrollador+Web;PHP+%7C+JS+%7C+Python+%7C+Tailwind" alt="Typing SVG" />
   
   <p align="center">
     <b>Estudiante de Desarrollo Web</b> <br />
@@ -11,7 +11,7 @@
   <a href="https://github.com/raulmm24">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="mailto:tu-email@ejemplo.com">
+  <a href="raulmartinezmartinez24@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://linkedin.com/in/tu-perfil" target="_blank">
@@ -72,7 +72,7 @@
         <code>Java</code>
       </p>
       <p align="center">
-        <a href="https://github.com/raulmm24/taller-mecanico"><b>Ver Repositorio ↗</b></a>
+        <a href="[https://github.com/raulmm24/taller-mecanico](https://github.com/raulmm24/TallerMecanico)"><b>Ver Repositorio ↗</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -85,7 +85,7 @@
         <code>Java</code> <code>MySql</code> 
       </p>
       <p align="center">
-        <a href="https://github.com/raulmm24"><b>Ver Repositorios ↗</b></a>
+        <a href="https://github.com/raulmm24/Practicas"><b>Ver Repositorios ↗</b></a>
       </p>
     </td>
   </tr>
