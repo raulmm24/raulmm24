@@ -76,7 +76,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">📁 Prácticas y Ejercicios</h3>
+      <h3 align="center">📁 Prácticas </h3>
       <p align="center">
         <i>Aplicación realizada en las practicas de 1º de DAW en la dual.</i>
       </p>
