@@ -1,6 +1,6 @@
-<!-- CABECERA DE PRESENTACIÓN -->
+<!-- CABECERA CON ANIMACIÓN Y PRESENTACIÓN -->
 <div align="center">
-  <h1>¡Hola, soy Raúl Martínez! 👋</h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=%C2%A1Hola!+Soy+Ra%C3%BAl+Mart%C3%ADnez;Estudiante+de+Desarrollo+Web;PHP+%7C+JS+%7C+Python+%7C+HTML%2FCSS" alt="Typing SVG" />
   
   <p align="center">
     🚀 <b>Estudiante de Desarrollo Web</b> apasionado por crear aplicaciones funcionales, bien estructuradas y con un diseño moderno.
@@ -74,24 +74,4 @@
     <td width="50%" valign="top">
       <h3 align="center">🛠️ Taller Mecánico</h3>
       <p align="center">
-        <i>Sistema web enfocado en la gestión integral de un taller: clientes, servicios y reparaciones.</i>
-      </p>
-      <p align="center">
-        <b>Tech Stack:</b><br />
-        <code>Java</code> 
-      </p>
-      <p align="center">
-        <a href="https://github.com/raulmm24/TallerMecanico"><b>Ver Repositorio ↗</b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">📁 Prácticas</h3>
-      <p align="center">
-        <i>Sistema de gestión enfocado en los trabajadores</i>
-      </p>
-      <p align="center">
-        <b>Tech Stack:</b><br />
-        <code>Java</code> <code>MySQL</code> 
-      </p>
-      <p align="center">
-        <a href="
+        <i>Sistema web enfocado en la gestión integral de un taller: clientes, servicios y repar
