@@ -1,21 +1,20 @@
-<!-- BANNER Y PRESENTACIÓN -->
+<!-- CABECERA CON ANIMACIÓN Y PRESENTACIÓN -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=%C2%A1Hola!+Soy+Ra%C3%BAl;Desarrollador+Web;PHP+%7C+JS+%7C+Python+%7C+Tailwind" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=%C2%A1Hola!+Soy+Ra%C3%BAl+Mart%C3%ADnez;Estudiante+de+Desarrollo+Web;Construyendo+apps+funcionales+y+modernas;PHP+%7C+JS+%7C+Python+%7C+HTML%2FCSS" alt="Typing SVG" />
   
   <p align="center">
-    <b>Estudiante de Desarrollo Web</b> <br />
-    Apasionado por crear aplicaciones funcionales, bien estructuradas y con interfaces limpias.
+    🚀 <b>Estudiante de Desarrollo Web</b> apasionado por crear aplicaciones funcionales, bien estructuradas y con un diseño moderno.
   </p>
 
-  <!-- REDES / CONTACTO -->
-  <a href="https://github.com/raulmm24">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="raulmartinezmartinez24@gmail.com">
+  <!-- REDES SOCIALES / CONTACTO -->
+  <a href="mailto:raulmartinezmartinez24@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://linkedin.com/in/tu-perfil" target="_blank">
+  <a href="https://www.linkedin.com/in/ra%C3%BAl-mart%C3%ADnez-automoci%C3%B3n/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/raulmm24">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </div>
 
@@ -23,21 +22,20 @@
 
 ---
 
-### 💬 Sobre mí
+### 💬 Sobre mí & Objetivos
 
 <table border="0">
   <tr>
     <td width="60%" valign="top">
       <ul>
-        <li>💻 Desarrollando proyectos web <b>Full Stack</b> combinando backend y frontend.</li>
-        <li>🎨 Enfocado en el <b>diseño de interfaces (UI/UX)</b>, composición, tipografía y jerarquía visual.</li>
-        <li>🐳 Experimentando con la virtualización en <b>Docker</b> y entornos de trabajo sobre <b>Linux / Ubuntu</b>.</li>
-        <li>📚 Aplicando conceptos de POO, arquitectura limpia y estructuración de bases de datos.</li>
+        <li>💻 Enfocado en dominar el desarrollo <b>Full Stack</b> combinando arquitectura sólida y diseño impecable.</li>
+        <li>⚡ Aprendiendo activamente <b>PHP, Python, JavaScript, HTML5 y CSS3</b>.</li>
+        <li>🎯 Próxima meta: Dominar frameworks potentes como <b>Laravel</b> y <b>React</b>.</li>
+        <li>💡 Siempre experimentando con nuevos proyectos y buenas prácticas de código.</li>
       </ul>
     </td>
     <td width="40%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/everf/github-readme-stats/main/themes/tokyonight.png" width="0" />
-      <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=400&auto=format&fit=crop&q=60" width="220px" style="border-radius: 8px;" alt="Coding Dark Mode" />
+      <img src="https://media.giphy.com/media/qgQUGGAC3P4PPmmgcM/giphy.gif" width="180px" alt="Coding GIF" />
     </td>
   </tr>
 </table>
@@ -46,11 +44,12 @@
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
+### 🛠️ Tecnologías que utilizo y aprendo
 
 <div align="center">
+  <!-- ICONOS DE TECNOLOGÍAS EN MODO OSCURO -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,python,tailwind,mysql,docker,linux,git,github,vscode,figma&theme=dark" alt="Tecnologías" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,python,laravel,react,tailwind,mysql,docker,linux,git,github,vscode&theme=dark" alt="Mis Tecnologías" />
   </a>
 </div>
 
@@ -65,30 +64,36 @@
     <td width="50%" valign="top">
       <h3 align="center">🛠️ Taller Mecánico</h3>
       <p align="center">
-        <i>Sistema web de gestión para taller mecánico. Control de reparaciones, gestión de clientes, vehículos y servicios.</i>
+        <i>Sistema web enfocado en la gestión integral de un taller: clientes, servicios y reparaciones.</i>
       </p>
       <p align="center">
         <b>Tech Stack:</b><br />
-        <code>Java</code>
+        <code>Java</code> 
       </p>
       <p align="center">
-        <a href="[https://github.com/raulmm24/taller-mecanico](https://github.com/raulmm24/TallerMecanico)"><b>Ver Repositorio ↗</b></a>
+        <a href="https://github.com/raulmm24/TallerMecanico"><b>Ver Repositorio ↗</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">📁 Prácticas </h3>
+      <h3 align="center">📁 Prácticas</h3>
       <p align="center">
-        <i>Aplicación realizada en las practicas de 1º de DAW en la dual.</i>
+        <i>Sistema de gestión enfocado en los trabajadores</i>
       </p>
       <p align="center">
         <b>Tech Stack:</b><br />
-        <code>Java</code> <code>MySql</code> 
+        <code>Java</code> <code>MySQL</code> 
       </p>
       <p align="center">
-        <a href="https://github.com/raulmm24/Practicas"><b>Ver Repositorios ↗</b></a>
+        <a href="https://github.com/raulmm24/Practicas"><b>Ver Repositorio ↗</b></a>
       </p>
     </td>
   </tr>
 </table>
 
 <br />
+
+---
+
+<div align="center">
+  <i>"El mejor momento para plantar un árbol fue hace 20 años. El segundo mejor momento es ahora."</i> 🌿
+</div>
