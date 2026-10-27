@@ -39,7 +39,7 @@
 
 ---
 
-### 🛠️ Tecnologías y Stack
+### 🛠️ Tecnologías
 
 <div align="center">
 
