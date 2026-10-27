@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=%C2%A1Hola!+Soy+Ra%C3%BAl+Mart%C3%ADnez+%F0%9F%91%8B;Estudiante+de+Desarrollo+Web+%E2%9A%A1;Transformando+ideas+en+c%C3%B3digo" alt="Typing SVG" />
   
   <p align="center">
-    🚀 <b>Estudiante de Desarrollo Web y Diseño de Interfaces</b> | Creando aplicaciones funcionales, limpias y con buen diseño.
+    🚀 <b>Estudiante de Desarrollo Web y Diseño de Interfaces</b> | Creando aplicaciones funcionales y modernas.
   </p>
 
   <!-- REDES SOCIALES / CONTACTO -->
