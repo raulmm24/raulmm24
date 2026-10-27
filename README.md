@@ -30,8 +30,8 @@
 
 ### 🎯 Objetivos
 <ul>
-  <li>⚡ Dominar por completo tecnologías como PHP, JavaScript, Python.</li>
-  <li>🚀 Especializarme próximamente en frameworks potentes como <b>Laravel</b> y <b>React</b>.</li>
+  <li>⚡ Aprendiendo tecnologías como PHP, JavaScript, Python.</li>
+  <li>🚀 Especializarme próximamente en frameworks como <b>Laravel</b> y <b>React</b>.</li>
   <li>🤝 Colaborar en proyectos desafiantes y seguir creciendo profesionalmente en el sector tech.</li>
 </ul>
 
