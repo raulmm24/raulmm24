@@ -74,4 +74,36 @@
     <td width="50%" valign="top">
       <h3 align="center">🛠️ Taller Mecánico</h3>
       <p align="center">
-        <i>Sistema web enfocado en la gestión integral de un taller: clientes, servicios y repar
+        <i>Sistema web enfocado en la gestión integral de un taller: clientes, servicios y reparaciones.</i>
+      </p>
+      <p align="center">
+        <b>Tech Stack:</b><br />
+        <code>Java</code> 
+      </p>
+      <p align="center">
+        <a href="https://github.com/raulmm24/TallerMecanico"><b>Ver Repositorio ↗</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📁 Prácticas</h3>
+      <p align="center">
+        <i>Sistema de gestión enfocado en los trabajadores</i>
+      </p>
+      <p align="center">
+        <b>Tech Stack:</b><br />
+        <code>Java</code> <code>MySQL</code> 
+      </p>
+      <p align="center">
+        <a href="https://github.com/raulmm24/Practicas"><b>Ver Repositorio ↗</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+---
+
+<div align="center">
+  <i>"El mejor momento para plantar un árbol fue hace 20 años. El segundo mejor momento es ahora."</i> 🌿
+</div>
